@@ -58,8 +58,13 @@ Business Insights
 
 ## Visualizations
 
-* Rating Distribution
-* Price Distribution
+### Rating Distribution
+
+![Rating Distribution](Rating_Distribution.png)
+
+### Price Distribution
+
+![Price Distribution](Price_Distribution.png)
 
 ## Project Structure
 
